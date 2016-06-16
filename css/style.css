@@ -1,0 +1,76 @@
+body {
+			margin:0px;
+			padding:0px;
+			font-family: 'Open Sans', sans-serif;	
+			background: url(/img/background2.jpg);
+		}
+
+
+
+.mylove {
+  width: 100%;
+}
+.vstvk {
+	width: 20%;
+	position: center;
+}
+		.vnut {
+			position: absolute;
+			width:100%;
+			text-align: center;
+		}
+
+		h1 {
+			font-size: 40px;
+			font-weight: 100;
+			text-transform: uppercase;
+		}
+
+button {
+	padding: 7px 40px;
+	margin-top: 15px;
+	border-width: 2px;
+	border-color: red;
+	border-radius: 30px;
+	border-style: solid;
+    font-size: 20px;
+    font-weight: 100;
+    background: white;
+    color:red;
+    transition: 0.35s;
+}
+button:hover {
+	background: red;
+	color: white;
+}
+button:active{
+	background: black;
+	border-color: black;
+}
+ .blog_header {
+    height: 54px;
+    background: #fff;
+    border-bottom: 1px solid #dfe3e9;
+    box-sizing: border-box;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+.logo {
+	background: url();
+}
+.cont {
+	margin: 40px 350px;
+	background: #fff;
+	box-shadow: 5px 5px 4px rgba(0,0,0,.1);
+	box-sizing: border-box;
+	height: 300px;
+	border: 3px;
+	padding: 25px 25px;
+
+}
+h1 {
+	text-align: center;
+}
