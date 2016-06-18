@@ -28,30 +28,6 @@ body {
 			text-transform: uppercase;
 		}
 
-button {
-	padding: 36px 20px;
-	margin: 40px 40px;
-	margin-top: 550px;
-	border-width: 1px;
-	border-color: white;
-	border-radius: 100px;
-	border-style: solid;
-    font-size: 20px;
-    background: none;
-    color: white;
-    transition: 0.35s;
-    font-family: Open-Sans;
-
-}
-button:hover {
-	background: white;
-	color: black;
-}
-button:active{
-	background: black;
-	border-color: black;
-	color: white;
-}
  .blog_header {
     height: 54px;
     background: #fff;
@@ -82,7 +58,7 @@ button:active{
 	padding: 25px 25px;
 	max-width: 940px;
 	bottom: 10px;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 
 }
 h1 {
@@ -109,4 +85,29 @@ p {
 	border: none;
 	background-color: #f1f2f4;
 	height: 1px;
+}
+.photo {
+	padding: 36px 20px;
+	margin: 40px 40px;
+	margin-top: 550px;
+	border-width: 1px;
+	border-color: white;
+	border-radius: 100px;
+	border-style: solid;
+    font-size: 20px;
+    background: none;
+    color: white;
+    transition: 0.35s;
+    font-family: Open-Sans;
+    text-decoration: none; 
+    display: inline-block;
+}
+.photo:hover {
+	background: white;
+	color: black;
+}
+.photo:active {
+	background: black;
+	border-color: black;
+	color: white;
 }
