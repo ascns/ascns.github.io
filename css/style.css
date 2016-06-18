@@ -58,7 +58,7 @@ body {
 	padding: 25px 25px;
 	max-width: 940px;
 	bottom: 10px;
-	margin-bottom: 10px;
+	margin-bottom: 50px;
 
 }
 h1 {
@@ -83,7 +83,7 @@ p {
 }
 .hr1 {
 	border: none;
-	background-color: #f1f2f4;
+	background-color: #d1d1d1;
 	height: 1px;
 }
 .photo {
@@ -97,7 +97,7 @@ p {
     font-size: 20px;
     background: none;
     color: white;
-    transition: 0.35s;
+    transition: 0.6s;
     font-family: Open-Sans;
     text-decoration: none; 
     display: inline-block;
