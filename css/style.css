@@ -5,8 +5,12 @@ body {
 			background-color: #edeef0;
 		}
 @font-face {
+    font-family: Houschka;
+    src: url(../font/Houschka.otf) ;
+}
+@font-face {
     font-family: Open-Sans;
-    src: url(../font/Open-Sans.ttf);
+    src: url(../font/Open-Sans.ttf) ;
 }
 
 .mylove {
@@ -26,6 +30,10 @@ body {
 			font-size: 40px;
 			font-weight: 100;
 			text-transform: uppercase;
+			text-align: center;
+         	font-family: "Houschka";
+         	color: #373737;
+
 		}
 
  .blog_header {
@@ -40,13 +48,12 @@ body {
     left: 0px;
 }
 .ascns-logo{
-	background: url(../img/ascuns.png) no-repeat left center;
-	text-indent: -50000px;
 	display: block;
-	width: 150px;
-	height: 48px;
-	background-size: 150px 50px;
-	margin: 2px 20px;
+	text-decoration: none;
+	margin: 13px 20px;
+	font-family: Houschka;
+	color: #373737;
+	font-size: 25px;
 }
 .cont {
 	margin: 0 auto;
@@ -61,9 +68,6 @@ body {
 	margin-bottom: 50px;
 
 }
-h1 {
-	text-align: center;
-}
 .izi {
 	background-image: url(../img/background2.jpg);
 	background-repeat: no-repeat;
@@ -74,6 +78,7 @@ h1 {
 }
 p {
 	font-size: 20px;
+	color: #62646c;
 }
 .content_view {
 	text-align: right;
@@ -98,7 +103,7 @@ p {
     background: none;
     color: white;
     transition: 0.6s;
-    font-family: Open-Sans;
+    font-family: Houschka;
     text-decoration: none; 
     display: inline-block;
 }
@@ -111,3 +116,10 @@ p {
 	border-color: black;
 	color: white;
 }
+
+
+
+
+
+
+
