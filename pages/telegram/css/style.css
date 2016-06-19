@@ -1,0 +1,155 @@
+body {
+            margin:0px;
+            padding:0px;
+            font-family: Open-Sans;
+            background-color: #edeef0;
+        }
+@font-face {
+    font-family: Houschka;
+    src: url(../../../font/Houschka.otf) ;
+}
+@font-face {
+    font-family: Open-Sans;
+    src: url(../../../font/Open-Sans.ttf) ;
+}
+
+.mylove {
+  width: 100%;
+}
+.vstvk {
+    width: 20%;
+    position: center;
+}
+.bkgr {
+    background-image: url(../img/telegram.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 500px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+
+}
+        .vnut {
+            position: absolute;
+            width:100%;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 40px;
+            font-weight: 100;
+            text-transform: uppercase;
+            text-align: center;
+            font-family: "Houschka";
+            color: #373737;
+
+        }
+
+ .blog_header {
+    height: 54px;
+    background: #fff;
+    border-bottom: 1px solid #dfe3e9;
+    box-sizing: border-box;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+.ascns-logo{
+    display: block;
+    text-decoration: none;
+    margin: 13px 20px;
+    font-family: Houschka;
+    color: #373737;
+    font-size: 25px;
+}
+.cont {
+    margin: 0 auto;
+    background: #fff;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.2);
+    box-sizing: border-box;
+    height: 2550px;
+    border-radius: 3px;
+    padding: 25px 25px;
+    max-width: 940px;
+    bottom: 10px;
+    margin-bottom: 50px;
+
+}
+    
+p,li {
+    font-size: 20px;
+    color: #62646c;
+    padding: 60px;
+}
+.content_view {
+    text-align: right;
+}
+.about_site {
+    height: 60px;
+}
+.hr1 {
+    border: none;
+    background-color: #d1d1d1;
+    height: 1px;
+}
+.photo {
+    padding: 36px 20px;
+    margin: 40px 40px;
+    margin-top: 550px;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 100px;
+    border-style: solid;
+    font-size: 20px;
+    background: none;
+    color: white;
+    transition: 0.6s;
+    font-family: Houschka;
+    text-decoration: none; 
+    display: inline-block;
+}
+.photo:hover {
+    background: white;
+    color: black;
+}
+.photo:active {
+    background: black;
+    border-color: black;
+    color: white;
+}
+.t {
+    width: 15%;
+    margin: 15px 15px; 
+    float: right;
+}
+.stik {
+    width: 20%;
+    margin: 15px 20px 0px;
+}
+.dec {
+    width: 20%;
+    float: right;
+    margin-top: 66px;
+    margin-right: 45px;
+
+}
+
+.develop {
+    margin-top: 40px;
+    margin-bottom: -40px;
+}
+h2 {
+    margin-top: 80px;
+    font-family: Houschka;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
+
+

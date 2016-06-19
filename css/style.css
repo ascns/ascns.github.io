@@ -60,7 +60,7 @@ body {
 	background: #fff;
 	box-shadow: 0 0 0 1px rgba(0,0,0,.2);
 	box-sizing: border-box;
-	height: 900px;
+	height: 370px;
 	border-radius: 3px;
 	padding: 25px 25px;
 	max-width: 940px;
@@ -116,22 +116,47 @@ p,li {
 	border-color: black;
 	color: white;
 }
-.t {
-	width: 20%;
+.page1 {
+	width: 15%;
 	margin: 15px 15px; 
 	float: right;
 }
-.stik {
-	width: 20%;
-	margin: 15px 20px 0px;
 }
 .develop {
 	margin-top: 40px;
 	margin-bottom: -40px;
 }
 
-
-
-
+.telegram {
+	padding: 10px 0;
+}
+.button {
+	text-decoration: none;
+	font-family: Houschka;
+	color: #555555;
+	border-width: 2px;
+	border-color: #555555;
+	border-style: solid;
+	padding: 12px 40px;
+	font-size: 17px;
+	border-radius: 3px;
+	margin: 5px 0px;
+	display: inline-block;
+	transition: 0.6s;
+}
+.button:hover {
+	color: white;
+	background: #555555;
+	box-shadow: 2px 3px 10px;
+}
+.button:active {
+	box-shadow: 2px 3px 10px; 
+}
+.date {
+	margin: 0px 800px;
+	margin-top: -55px;
+	font-family: Houschka;
+	color: #afafaf;
+}
 
 
