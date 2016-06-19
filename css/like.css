@@ -1,7 +1,7 @@
 .heart {
   width: 100px;
   height: 100px;
-  background: url("https://cssanimation.rocks/images/posts/steps/heart.png") no-repeat;
+  background: url("../img/heart.png") no-repeat;
   background-position: 0 0;
   cursor: pointer;
   -webkit-transition: background-position 1s steps(28);
@@ -16,9 +16,9 @@
 }
 
 .stage {
-    margin-bottom: 0px;
+    margin-bottom: 40px;
     margin-left: 840px;
-    margin-top: 77px;
+    margin-top: 40px;
   position: relative;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
