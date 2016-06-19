@@ -147,10 +147,10 @@ p,li {
 .button:hover {
 	color: white;
 	background: #555555;
-	box-shadow: 2px 3px 10px;
+	box-shadow: 2px 3px 10px #555555;
 }
 .button:active {
-	box-shadow: 2px 3px 10px; 
+	box-shadow: 2px 3px 10px #555555; 
 }
 .date {
 	margin: 0px 800px;
