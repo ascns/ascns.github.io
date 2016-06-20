@@ -71,7 +71,7 @@ body {
     background: #fff;
     box-shadow: 0 0 0 1px rgba(0,0,0,.2);
     box-sizing: border-box;
-    height: 2550px;
+    height: 3614px;
     border-radius: 3px;
     padding: 25px 25px;
     max-width: 940px;
@@ -90,6 +90,14 @@ p,li {
 }
 .about_site {
     height: 60px;
+    background-color: white;
+    text-align: center;
+}
+.about_s {
+    font-family: Houschka;
+    font-size: 14px;
+    color: #555555;
+    padding: 20px 0px 0px 0px;
 }
 .hr1 {
     border: none;
@@ -141,6 +149,8 @@ p,li {
 .develop {
     margin-top: 40px;
     margin-bottom: -40px;
+    font-family: Houschka;
+    font-size: 15px;
 }
 h2 {
     margin-top: 80px;
@@ -158,7 +168,7 @@ h2 {
     float: right;
     width: 40px;
     height: 40px;
-    transition: 0.6s;
+    transition: 0.3s;
     border-style: solid;
     border-width: 0px;
     border-radius: 13px;
@@ -176,7 +186,7 @@ h2 {
     float: right;
     width: 40px;
     height: 40px;
-    transition: 0.6s;
+    transition: 0.3s;
     border-style: solid;
     border-width: 0px;
     border-radius: 40px;
@@ -185,7 +195,10 @@ h2 {
     background-image: url(../../../img/tele2.png);
     box-shadow: 2px 3px 10px #555555;
 }
-
+.ssylki {
+    text-decoration: none;
+    color: #45b4d4;
+}
 
 
 

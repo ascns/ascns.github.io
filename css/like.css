@@ -16,9 +16,7 @@
 }
 
 .stage {
-    margin-bottom: 40px;
-    margin-left: 840px;
-    margin-top: 40px;
+    float: right;
   position: relative;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
