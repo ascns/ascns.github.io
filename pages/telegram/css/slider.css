@@ -37,16 +37,16 @@ html, body {
 }
 
 .slide:nth-of-type(1) {
-  background-image: url(../img/screenshot1.jpg);
+  background-image: url(../img/screenshot1.JPG);
   width: 100%;
 }
 
 .slide:nth-of-type(2) {
-  background-image: url(../img/screenshot2.jpg);
+  background-image: url(../img/screenshot2.JPG);
 }
 
 .slide:nth-of-type(3) {
- background-image: url(../img/screenshot3.jpg);
+ background-image: url(../img/screenshot3.JPG);
 }
 
 
