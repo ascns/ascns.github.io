@@ -50,7 +50,7 @@ body {
 .ascns-logo{
 	display: block;
 	text-decoration: none;
-	margin: 13px 20px;
+	margin: 16px 20px;
 	font-family: Houschka;
 	color: #373737;
 	font-size: 25px;
@@ -99,6 +99,31 @@ p,li {
 	border: none;
 	background-color: #d1d1d1;
 	height: 1px;
+}
+.photo1 {
+    padding: 63px 50px;
+	margin: 40px 40px;
+	margin-top: 550px;
+	border-width: 1px;
+	border-color: white;
+	border-radius: 100px;
+	border-style: solid;
+    font-size: 20px;
+    background: none;
+    color: white;
+    transition: 0.6s;
+    font-family: Houschka;
+    text-decoration: none; 
+    display: inline-block;
+}
+.photo1:hover {
+    background: white;
+	color: black;
+}
+.photo1:active {
+	background: black;
+	border-color: black;
+	color: white;
 }
 .photo {
 	padding: 58px 20px;
