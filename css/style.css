@@ -93,7 +93,7 @@ p,li {
 	font-family: Houschka;
 	font-size: 14px;
 	color: #555555;
-	padding: 20px 0px 0px 350px;
+	padding: 20px 0px 0px 0px;
 }
 .hr1 {
 	border: none;
@@ -117,7 +117,7 @@ p,li {
     display: inline-block;
 }
 .photo:hover {
-	background: black;
+	background: white;
 	color: black;
 }
 .photo:active {
