@@ -117,7 +117,7 @@ p,li {
     display: inline-block;
 }
 .photo:hover {
-	background: white;
+	background: black;
 	color: black;
 }
 .photo:active {
