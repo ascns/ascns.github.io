@@ -75,7 +75,7 @@ body {
 	background-size: cover;
 	background-position: center center;
 	min-height: 690px;
-	
+    margin-top: 3.4%;
 }
 p,li {
 	font-size: 20px;
@@ -85,45 +85,20 @@ p,li {
 	text-align: right;
 }
 .about_site {
+    width: auto;
 	height: 60px;
 	background-color: white;
-	text-align: center;
 }
 .about_s {
 	font-family: Houschka;
 	font-size: 14px;
 	color: #555555;
-	padding: 20px 0px 0px 0px;
+	padding: 20px 0px 0px 35%;
 }
 .hr1 {
 	border: none;
 	background-color: #d1d1d1;
 	height: 1px;
-}
-.photo1 {
-    padding: 63px 50px;
-	margin: 40px 40px;
-	margin-top: 550px;
-	border-width: 1px;
-	border-color: white;
-	border-radius: 100px;
-	border-style: solid;
-    font-size: 20px;
-    background: none;
-    color: white;
-    transition: 0.6s;
-    font-family: Houschka;
-    text-decoration: none; 
-    display: inline-block;
-}
-.photo1:hover {
-    background: white;
-	color: black;
-}
-.photo1:active {
-	background: black;
-	border-color: black;
-	color: white;
 }
 .photo {
 	padding: 58px 20px;

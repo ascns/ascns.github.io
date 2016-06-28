@@ -1,0 +1,76 @@
+
+@font-face {
+    font-family: Houschka;
+    src: url(../../../font/Houschka.otf) ;
+}
+body {
+	margin:0 0 0 0 ;
+}
+.fon {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+ .blog_header {
+    height: 54px;
+    background: #fff;
+    border-bottom: 1px solid #dfe3e9;
+    box-sizing: border-box;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+.ascns-logo{
+	display: block;
+	text-decoration: none;
+	margin: 13px 20px;
+	font-family: Houschka;
+	color: #373737;
+	font-size: 25px;
+	float: left;
+}
+.instagram {
+    background-image: url(../../../img/insta1.png);
+    background-repeat: no-repeat;
+    background-size: 40px;
+    
+    margin: 6px 0px;
+    float: right;
+    width: 40px;
+    height: 40px;
+    transition: 0.3s;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 13px;
+}
+.instagram:hover {
+    background-image: url(../../../img/insta2.jpg);
+    box-shadow: 2px 3px 10px #555555;
+}
+.tele {
+    background-image: url(../../../img/tele1.png);
+    background-repeat: no-repeat;
+    background-size: 44px;
+    background-position: center;
+    margin: 6px 40px;
+    float: right;
+    width: 40px;
+    height: 40px;
+    transition: 0.3s;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 40px;
+}
+.tele:hover {
+    background-image: url(../../../img/tele2.png);
+    box-shadow: 2px 3px 10px #555555;
+}
+.text {
+	margin: 400px;
+	text-align: center;
+	font-size: 50px;
+	font-family: Houschka;
+	color: white;
+}
